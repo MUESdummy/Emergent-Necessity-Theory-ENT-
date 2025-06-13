@@ -31,7 +31,7 @@ not virtue.
 | **White Paper** | `docs/White_Paper.md` [https://tinyurl.com/4tan8fxf] | 20 pp conceptual + empirical framework |
 | **Yellow Paper** | `docs/Yellow_Paper.md` [https://tinyurl.com/4bwkv7fk] | formal derivations, proofs, simulations |
 | Roadmap | `README.md` (below) | milestones & next targets |
-| Releases | <https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT/releases> | tagged bundles (PDFs, builds) |
+| Releases | <https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-.git> + <https://tinyurl.com/4bwkv7fk> | tagged bundles (PDFs, builds) |
 
 ---
 
