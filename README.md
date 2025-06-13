@@ -5,7 +5,7 @@
 
 ---
 
-## 1  What is Emergent Necessity Theory (ENT)?
+##  What is Emergent Necessity Theory (ENT)?
 
 Emergent Necessity Theory asserts that whenever an information network’s internal constraints
 cross a critical **modal-tightness** threshold (τ > τ_c), the system must
@@ -15,16 +15,20 @@ We combine concepts from quantum foundations, complexity science and
 cognitive neuroscience to explain why consciousness, biological
 complexity and large-scale social regularities arise reliably in our universe.
 
-### 1.1  MUES (Meta-Universal Equality Scale)  [https://github.com/MUESdummy/Meta-Universal-Equality-Scale.git]
+### 1.1  MUES (Meta-Universal Equality Scale) -> [https://github.com/MUESdummy/Meta-Universal-Equality-Scale.git]
 
 MUES is a purely descriptive ledger that sums intention-weighted impacts
 once an agent crosses a self-awareness threshold (θ > θ̂).  
 All moral language is stripped; MUES measures informational influence,
 not virtue.
 
+To test it out the beta, directly copy paste into ChatGPT autoboot text directly from here: 
+[https://github.com/MUESdummy/Meta-Universal-Equality-Scale/blob/7f1bb79f16c230393a5c9516215e844ceadc1256/MUES_AutoBoot_V8.txt]
+
+****
 ---
 
-## 2  Table of contents
+##  Table of contents
 
 | Doc | Format | Description |
 |-----|--------|-------------|
@@ -46,7 +50,7 @@ not virtue.
 5- Community: open issues & accept PRs for critique/replication     
  
 
-#### Contributing
+#### Contributions
 
 1- Fork the repo, create a branch (feat/… or fix/…).     
 2- Ensure pre-commit run --all-files passes (Markdown lint + spell-check).     
