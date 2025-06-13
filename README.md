@@ -15,7 +15,7 @@ We combine concepts from quantum foundations, complexity science and
 cognitive neuroscience to explain why consciousness, biological
 complexity and large-scale social regularities arise reliably in our universe.
 
-### 1.1  MUES (Meta-Universal Equality Scale)
+### 1.1  MUES (Meta-Universal Equality Scale)  [https://github.com/MUESdummy/Meta-Universal-Equality-Scale.git]
 
 MUES is a purely descriptive ledger that sums intention-weighted impacts
 once an agent crosses a self-awareness threshold (θ > θ̂).  
