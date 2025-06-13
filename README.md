@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
+
+
 # Emergent Necessity Theory (ENT) & MUES
 
 > **Status** · pre-alpha (v0.9.0) · MIT License  
