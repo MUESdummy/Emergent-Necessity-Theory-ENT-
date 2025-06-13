@@ -1,0 +1,19 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+@prefix ent:  <https://ent.example.org/core#> .
+
+<https://ent.example.org/core>
+    rdf:type owl:Ontology ;
+    rdfs:comment "Minimal core ontology for ENT — v0.1."@en .
+
+ent:SemanticField   rdf:type owl:Class .
+ent:Root            rdf:type owl:Class .
+ent:AwarenessStage  rdf:type owl:Class .
+
+ent:hasRoot       rdf:type owl:ObjectProperty ; rdfs:domain ent:SemanticField ; rdfs:range ent:Root .
+ent:triggersStage rdf:type owl:ObjectProperty ; rdfs:domain ent:SemanticField ; rdfs:range ent:AwarenessStage .
+
+ent:rootText    rdf:type owl:DatatypeProperty ; rdfs:domain ent:Root ; rdfs:range xsd:string .
+ent:quranicRefs rdf:type owl:DatatypeProperty ; rdfs:domain ent:SemanticField ; rdfs:range xsd:string .
