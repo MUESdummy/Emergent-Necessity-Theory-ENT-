@@ -1,3 +1,13 @@
+
+---
+
+### << SEE [[https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki#primary-papers](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki)] FIRST >> 
+
+
+---
+
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8475.svg)](https://doi.org/10.5281/zenodo.8475)
 
 
@@ -17,6 +27,7 @@ Order is therefore *mandatory,* not a lucky break.
 We combine concepts from quantum foundations, complexity science and
 cognitive neuroscience to explain why consciousness, biological
 complexity and large-scale social regularities arise reliably in our universe.
+
 
 ### 1.1  MUES (Meta-Universal Equality Scale) -> [https://github.com/MUESdummy/Meta-Universal-Equality-Scale.git]
 
@@ -72,6 +83,9 @@ AlWaleed K. — guidance, use-cases, editorial
 
 LICENSE
 his project is released under the MIT License – see LICENSE.
+
+[https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki#primary-papers]
+
 
 
 
