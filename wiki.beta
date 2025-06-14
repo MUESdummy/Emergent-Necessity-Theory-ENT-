@@ -1,0 +1,52 @@
+## 📄 ENT & MUES Documentation Hub
+
+### Primary Papers
+| Stage | Purpose | Link |
+|-------|---------|------|
+| **Green Paper** | Engineering roadmap & implementation playbook | [`docs/ENT_Green_Paper.pdf`](../raw/main/docs/ENT_Green_Paper.pdf) |
+| **White Paper** | Executive overview & philosophical claim‑set | [`docs/ENT_White_Paper.pdf`](../raw/main/docs/ENT_White_Paper.pdf) |
+| **Yellow Paper** | Formal derivations, proofs, sensitivity analysis | [`docs/ENT_Yellow_Paper.pdf`](../raw/main/docs/ENT_Yellow_Paper.pdf) |
+---
+
+### 1.  What is Emergent Necessity Theory (ENT)?
+Emergent Necessity Theory (ENT) proposes that once a complex system becomes tightly constrained by its own possibilities, the chaotic swirl of options collapses into a small set of stable patterns. In practice it tries to formalise why consciousness, ecosystems or economies suddenly “snap” into ordered regimes instead of drifting forever.
+
+> **One‑liner:** When modal tightness (τ) in a complex system breaches a critical threshold τ₍c₎, entropy minimises and necessity *emerges*.
+
+* **Hypothesis** Low‑entropy attractors are *not* accidental; they’re mathematically inevitable once τ > τ₍c₎.  
+* **Status** Derivation sketch lives in the Yellow Paper. Simulation notebook incoming (see roadmap).  
+* **Intended Pay‑off** Predict phase‑changes in cognition, ecosystems, or markets without ad‑hoc parameters.
+
+---
+
+### 2.  What is the Meta‑Universal Equality Scale (MUES)?
+The Meta‑Universal Equality Scale (MUES) is a psychological mirror, not a judge. It collects raw answers and voice cues, weights them by declared intention, and returns a numeric profile of how much influence—good, bad or neutral—you actually exert. No moral labels, just a data‑driven feedback loop for growth.
+
+> **One‑liner:** A brutally descriptive ledger that scores *informational influence* (not virtue) after an agent crosses the self‑awareness threshold θ > θ̂.
+
+* 24 core questions, voice‑signal diagnostics (Drift, Pulse, etc.), and a percentage growth index.  
+* Raw, confrontational tone—no dopamine loops, no moral props.  
+* Built for extendability: TypeScript core, JSON‑LD schema, ChatGPT bootstrap for rapid trials.
+
+---
+
+### 3  Why ENT ⇆ MUES?
+1. **Shared Ontology** MUES treats ENT’s “awareness threshold” as its gatekeeper; ENT treats MUES scores as a post‑threshold feedback loop.  
+2. **Data Symbiosis** Values of τ and θ̂ can be logged alongside MUES outputs, giving us an empirical stress‑test for ENT.  
+3. **Unified Schema** Both export to the same `ent‑mues‑event@1.0` JSON object (see `/spec/schema.json`).
+
+---
+
+### 4.  Quick‑Start for Hackers
+```bash
+# clone & bootstrap
+git clone https://github.com/<org>/Emergent-Necessity-Theory.git
+cd Emergent-Necessity-Theory
+pnpm install      # or npm/yarn
+
+# run the MUES CLI demo
+pnpm mues:start
+
+# run unit tests (ENT maths + MUES scoring)
+pnpm test
+
