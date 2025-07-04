@@ -4,7 +4,7 @@
 
 This repository contains Python validation scripts for the theoretical framework presented in:
 
-**AlShehail, A. (2025). A Unified Theory of Awareness Thresholds, Structural Evolution, and τ-Dynamics**
+**A Unified Theory of Awareness Thresholds, Structural Evolution, and τ-Dynamics**
 
 ## Simulation Files
 
