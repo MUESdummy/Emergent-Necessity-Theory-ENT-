@@ -1,3 +1,4 @@
+![IMG_4668](https://github.com/user-attachments/assets/382293be-3558-45ad-b8ca-eb542faf2225)
 ⚠️ NOTE: This repository is dedicated to the foundational theory (ENT) only.
 
 # Emergent Necessity Theory (ENT) Simulations
