@@ -20,7 +20,7 @@ This repository contains Python validation scripts for the theoretical framework
    - Analyzes HCP resting-state data for τ-complexity (Eq 1)
    
 
-4. `iit_correlation.py`  
+4. [`iit_correlation.py`](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/27dc786a2ea3d61a4ed9ff6e2ca339b45874c8d8/Simulationa/iit_correlation.py)
    - Generates κ<sub>R</sub> ∝ Φ correlation plot (Eq 7)
     
 
