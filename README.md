@@ -1,3 +1,6 @@
+Update: [Emergent Necessity Theory: Coherence Thresholds for Structured
+Reality & Consciousness](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/2630a290b7571acaac98f379be8a31e8e92d58f2/ENT_Coherence%20thresholds%20For%20Structural%20Reality%20%26%20Awarensss.%20V4.pdf)
+
 ![IMG_4668](https://github.com/user-attachments/assets/382293be-3558-45ad-b8ca-eb542faf2225)
 ⚠️ NOTE: This repository is dedicated to the foundational theory (ENT) only.
 
