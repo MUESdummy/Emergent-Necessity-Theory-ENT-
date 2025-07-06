@@ -1,6 +1,6 @@
 While ENT provides experimentally testable thresholds, broader adoption faces challenges common to cross-disciplinary frameworks: institutional barriers between physics/neuroscience/AI communities, funding mechanisms favoring established paradigms, and technical hurdles in coordinating validation across domains. ENT's technology-ready predictions offer concrete pathways to overcome these through collaborative verification.
 
-[A Unified Theory of Awareness Thresholds, Structural Evolution, and τ-Dynamics](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Unifying%20Theory_ENT..pdf)
+[A Unified Theory of Awareness Thresholds, Structural Evolution, and τ-Dynamics](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Unifying%20Theory_ENT..pdf) -see below-
 
 [A Universal Coherence Threshold for Structured Reality](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Universal%20coherence%20threshold%20for%20structured%20reality.pdf)
 
