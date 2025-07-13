@@ -1,17 +1,22 @@
 While ENT provides experimentally testable thresholds, broader adoption faces challenges common to cross-disciplinary frameworks: institutional barriers between physics/neuroscience/AI communities, funding mechanisms favoring established paradigms, and technical hurdles in coordinating validation across domains. ENT's technology-ready predictions offer concrete pathways to overcome these through collaborative verification.
 
-[Consciousness Structure and Calibration](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/tree/7697d87112d6fb25bd44553e0cb6c9dd9ce93731/Consciousness_Structure_Calibration)
 
-[A Unified Theory of Awareness Thresholds, Structural Evolution, and τ-Dynamics](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Unifying%20Theory_ENT..pdf) -see below-
+* [An Emergent Necessity Theory: A Universal Coherence Threshold for Structured Reality](https://philpapers.org/rec/ALSAEN)
 
-[A Universal Coherence Threshold for Structured Reality](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Universal%20coherence%20threshold%20for%20structured%20reality.pdf)
+* [Consciousness Structure and Calibration](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/tree/7697d87112d6fb25bd44553e0cb6c9dd9ce93731/Consciousness_Structure_Calibration)
 
-[Justification of Critical Coherence Thresholds in Emergent Necessity Theory: A Framework of Scientific Humility](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Why%20Tau%20Thresh_Scientific%20Humility%20Framwork.%20.pdf)
+* [A Unified Theory of Awareness Thresholds, Structural Evolution, and τ-Dynamics](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Unifying%20Theory_ENT..pdf) 
 
-[Emergent Necessity Theory: Coherence Thresholds for Structured
-Reality & Consciousness](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/2630a290b7571acaac98f379be8a31e8e92d58f2/ENT_Coherence%20thresholds%20For%20Structural%20Reality%20%26%20Awarensss.%20V4.pdf)
+* [A Universal Coherence Threshold for Structured Reality](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Universal%20coherence%20threshold%20for%20structured%20reality.pdf)
+
+* [Justification of Critical Coherence Thresholds in Emergent Necessity Theory: A Framework of Scientific Humility](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/65ced4b8b9dc0ac78f8049181bf36c49b901508f/Why%20Tau%20Thresh_Scientific%20Humility%20Framwork.%20.pdf)
+
+* [An Emergent Necessity: Coherence Thresholds for Reality & Consciousness](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/2630a290b7571acaac98f379be8a31e8e92d58f2/ENT_Coherence%20thresholds%20For%20Structural%20Reality%20%26%20Awarensss.%20V4.pdf)
 
 ![IMG_4668](https://github.com/user-attachments/assets/382293be-3558-45ad-b8ca-eb542faf2225)
+
+
+   [ENT Quick Wiki Links](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki#-quick-links)
 
 ⚠️ NOTE: This repository is dedicated to the foundational theory (ENT) only.
 
