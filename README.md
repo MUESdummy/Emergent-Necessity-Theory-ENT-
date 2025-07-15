@@ -1,5 +1,8 @@
 While ENT provides experimentally testable thresholds, broader adoption faces challenges common to cross-disciplinary frameworks: institutional barriers between physics/neuroscience/AI communities, funding mechanisms favoring established paradigms, and technical hurdles in coordinating validation across domains. ENT's technology-ready predictions offer concrete pathways to overcome these through collaborative verification.
 
+* [Emergent Necessity Theory v2: Structural
+Coherence Thresholds Across Neural,
+Symbolic, and Physical Domains](https://zenodo.org/records/15939045?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjhmMmE2NjI1LTI3ZGEtNGQ2My1iZWZhLWIwMTg3ZDBjMzBhZCIsImRhdGEiOnt9LCJyYW5kb20iOiI1MmZkODdmOTkyMDdiNzdhZGRlM2JhZTdjODNkYThjYSJ9.mSuLD7BZMj9GZfs2Bl4dCY6qAkYpYCKToFLxrRB1cRhF76MCuqe4vJCWj5l6BbPPU0oKuLyY1dOpJCUr0Awz7g)
 
 * [An Emergent Necessity Theory: A Universal Coherence Threshold for Structured Reality](https://philpapers.org/rec/ALSAEN)
 
