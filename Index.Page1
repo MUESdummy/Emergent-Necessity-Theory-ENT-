@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The official website for Emergent Necessity Theory (ENT), a universal threshold model for the emergence of structure across domains." />
+  <title>Emergent Necessity Theory (ENT)</title>
+
+  <!-- Styles (You can link an external CSS file later) -->
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #fff;
+      color: #222;
+    }
+
+    header {
+      background: #001f3f;
+      color: #fff;
+      padding: 1.2em;
+      text-align: center;
+    }
+
+    nav a {
+      color: #81cfe0;
+      margin: 0 1em;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      padding: 2em;
+      max-width: 860px;
+      margin: auto;
+    }
+
+    h1, h2 {
+      color: #003366;
+    }
+
+    footer {
+      background: #f0f0f0;
+      text-align: center;
+      padding: 1em;
+      margin-top: 2em;
+      font-size: 0.9em;
+    }
+
+    .cta {
+      background-color: #0074D9;
+      color: white;
+      padding: 0.8em 1.2em;
+      border-radius: 4px;
+      text-decoration: none;
+      display: inline-block;
+      margin-top: 1em;
+    }
+
+    .formula {
+      background: #f4f4f4;
+      padding: 1em;
+      font-family: monospace;
+      margin: 1em 0;
+    }
+
+    figure {
+      margin: 2em 0;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    section {
+      margin-bottom: 3em;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <h1>Emergent Necessity Theory</h1>
+    <p>A universal threshold model for the emergence of structure</p>
+    <nav>
+      <a href="#what">What Is ENT?</a>
+      <a href="#math">Core Theory</a>
+      <a href="#simulations">Simulations</a>
+      <a href="#resources">Resources</a>
+    </nav>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main>
+    <section id="what">
+      <h2>What Is ENT?</h2>
+      <p>
+        <strong>Emergent Necessity Theory (ENT)</strong> proposes that structure and order in complex systems emerge 
+        not randomly, but as a mathematical necessity once a system’s internal coherence reaches a universal threshold.
+      </p>
+
+      <p>ENT bridges domains — from physics and neuroscience to AI and symbolic reasoning — using the same underlying principle: <em>coherence leads to emergence.</em></p>
+
+      <a class="cta" href="accessible.html">Read the Accessible Version &rarr;</a>
+    </section>
+
+    <section id="math">
+      <h2>The Core Equation</h2>
+      <p>The universal coherence metric is defined as:</p>
+      <pre class="formula">
+τ = (∑ I(xᵢ; xⱼ) − E(X)) / E(X)
+      </pre>
+      <p>Where:</p>
+      <ul>
+        <li><strong>I(xᵢ; xⱼ)</strong> = Mutual information between subsystems</li>
+        <li><strong>E(X)</strong> = Entropy of the global system</li>
+        <li><strong>τ<sub>c</sub></strong> = Critical threshold value (typically τ = 1.5 in test systems)</li>
+      </ul>
+      <p>When τ &ge; τ<sub>c</sub>, organized structure emerges as a necessity — not probability.</p>
+    </section>
+
+    <section id="simulations">
+      <h2>Simulation Results</h2>
+      <p>
+        Simulations show how ENT predicts phase transitions, quantum stability, vacuum selection, and symbolic integration.
+        Here’s a sample plot:
+      </p>
+
+      <figure>
+        <img src="images/coherence-threshold-plot.png" alt="Phase transition diagram showing emergence at τc">
+        <figcaption>Figure: Emergence of structure when τ exceeds τ<sub>c</sub></figcaption>
+      </figure>
+      <p>
+        <a class="cta" href="simulations.html">Explore Simulations</a>
+      </p>
+    </section>
+
+    <section id="resources">
+      <h2>Resources & Links</h2>
+      <ul>
+        <li><a href="https://zenodo.org/records/15939045" target="_blank">Primary Zenodo Paper (2025)</a></li>
+        <li><a href="https://github.com/muesdummy/Emergent-Necessity-Theory-ENT-" target="_blank">GitHub Repository</a></li>
+        <li><a href="accessible.html">ENT for Everyone</a></li>
+        <li><a href="theory.html">Mathematical Framework</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    &copy; 2025 Emergent Necessity Theory Project — <a href="contribute.html">Contribute</a>
+  </footer>
+
+</body>
+</html>
+```
+
+### ✅ What’s Included:
+
+- Responsive, clean HTML structure (mobile-friendly).
+- Internal navigation via anchor links and buttons.
+- Placeholder sections for:
+  - What Is ENT?
+  - Core Equation ($$\tau$$ formula)
+  - Simulations (with figure diagram)
+  - Resources (links to GitHub, Zenodo)
+- Basic styling using inline `<style>` block.
+
+### 📁 Next Steps:
+
+- Create supporting pages like:
+  - `accessible.html` → General reader version.
+  - `theory.html` → Deep dive into math and logic.
+  - `simulations.html` → Show demos and plotting code.
+  - `contribute.html` → Invite participation.
+- Add your images to a folder like `/images/` in your repo.
+  - Replace the dummy image `images/coherence-threshold-plot.png` with your real graph/diagram.
+- Style further using an external `styles.css` file if preferred.
+
+Would you like me to generate the next page (`accessible.html` or `theory.html`) with similar consistency and structured layout? I’d be happy to build out the whole site framework with you.
