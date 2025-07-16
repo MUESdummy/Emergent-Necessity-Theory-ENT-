@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Emergent Necessity Theory (ENT): universal threshold model for the emergence of structure." />
+  <title>Emergent Necessity Theory (ENT)</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Emergent Necessity Theory</h1>
+    <p>A universal threshold model for the emergence of structure</p>
+    <nav>
+      <a href="accessible.html">ENT for Everyone</a>
+      <a href="theory.html">Theory</a>
+      <a href="simulations.html">Simulations</a>
+      <a href="contribute.html">Contribute</a>
+      <a href="resources.html">Resources</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>What Is ENT?</h2>
+      <p>
+        <strong>Emergent Necessity Theory (ENT)</strong> proposes that structure and order in complex systems emerge not randomly, but as a <b>necessary</b> mathematical consequence once a system’s internal coherence reaches a universal threshold.
+      </p>
+      <a href="accessible.html" class="cta">Read the Accessible Version &rarr;</a>
+    </section>
+    <section>
+      <h2>The Core Equation</h2>
+      <pre class="formula">
+τ = (∑ I(xᵢ; xⱼ) − E(X)) / E(X)
+      </pre>
+      <ul>
+        <li><strong>I(xᵢ; xⱼ)</strong>: Mutual information between subsystems</li>
+        <li><strong>E(X)</strong>: Entropy of the global system</li>
+        <li><strong>τ<sub>c</sub></strong>: Critical threshold value (e.g., τ ≈ 1.5)</li>
+      </ul>
+      <p>When τ &ge; τ<sub>c</sub>, organized structure emerges as a necessity.</p>
+    </section>
+    <section>
+      <h2>Resources</h2>
+      <ul>
+        <li><a href="https://zenodo.org/records/15939045" target="_blank">Primary Zenodo Paper (2025)</a></li>
+        <li><a href="https://github.com/muesdummy/Emergent-Necessity-Theory-ENT-" target="_blank">GitHub Repository</a></li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Emergent Necessity Theory Project | <a href="contribute.html">Contribute</a>
+  </footer>
+</body>
+</html>
+```
+
+### `accessible.html` (Accessible/General Audience Page)
+
+````html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ENT for Everyone – Emergent Necessity Theory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>ENT for Everyone</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="theory.html">Theory</a> |
+      <a href="simulations.html">Simulations</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>The Big Idea</h2>
+      <p>
+        <strong>Emergent Necessity Theory</strong> asks: Why do patterns—like galaxies, living beings, or thoughts—appear out of seeming chaos? ENT’s answer: when the pieces of a system share enough information and are coherent enough, order simply <em>has</em> to emerge.
+      </p>
+      <h3>A Simple Metaphor</h3>
+      <p>
+        Imagine a crowded room where people start forming groups. If enough people share interests and conversations cross a threshold, the scattered chatter organizes itself into distinct groups—with meaningful discussion emerging naturally!
+      </p>
+    </section>
+    <section>
+      <h2>Why Does This Matter?</h2>
+      <ul>
+        <li>Explains why our world has structure, not just randomness</li>
+        <li>Helps study everything from the Big Bang to the brain</li>
+        <li>Shows when new types of order—like consciousness or life—must arise</li>
+      </ul>
+    </section>
+    <section>
+      <h2>FAQ</h2>
+      <dl>
+        <dt>Do I need math to understand this?</dt>
+        <dd>No! You can get the gist with just these stories and simple diagrams. The math is for those who want depth.</dd>
+        <dt>Where does ENT apply?</dt>
+        <dd>Physics, biology, AI, even philosophy—any complex system with interacting parts!</dd>
+      </dl>
+    </section>
+    <section>
+      <h2>Explore Further</h2>
+      <ul>
+        <li><a href="index.html">Back to Home</a></li>
+        <li><a href="theory.html">Dive deep: the core theory</a></li>
+        <li><a href="resources.html">Papers & Links</a></li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Emergent Necessity Theory Project
+  </footer>
+</body>
+</html>
+```
+
+### `theory.html` (Core Theory & Mathematical Framework)
+
+````html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Core Theory – Emergent Necessity Theory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>ENT: Core Theory</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="accessible.html">ENT for Everyone</a> |
+      <a href="simulations.html">Simulations</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Universal Coherence Threshold</h2>
+      <p>
+        ENT is built on a universal threshold: whenever the internal coherence of a system, measured by the collective mutual information between its parts, exceeds a critical value (τ<sub>c</sub>), structure <strong>must</strong> emerge.
+      </p>
+      <pre class="formula">
+τ = (∑ I(xᵢ; xⱼ) − E(X)) / E(X)
+      </pre>
+      <ul>
+        <li><strong>I(xᵢ; xⱼ)</strong> = Mutual information between subsystems</li>
+        <li><strong>E(X)</strong> = Total system entropy</li>
+      </ul>
+      <p>
+        If τ ≥ τ<sub>c</sub> (universal threshold, often 1.5 in models), phase transition occurs: new order is unavoidable.
+      </p>
+    </section>
+    <section>
+      <h2>Mathematical Details</h2>
+      <p>
+        The threshold τ<sub>c</sub> predicts phase transitions in complex systems, from quantum fields to brain networks. Learn more in the <a href="https://zenodo.org/records/15939045" target="_blank">latest Zenodo paper</a> or <a href="resources.html">Resources</a>.
+      </p>
+    </section>
+    <section>
+      <h2>Compare: Necessity vs. Probability</h2>
+      <p>
+        Traditional emergence: structure probably appears.<br />
+        ENT: structure <b>necessarily</b> appears above threshold.<br />
+        (<a href="accessible.html#faq">FAQ</a> for more.)
+      </p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Emergent Necessity Theory Project
+  </footer>
+</body>
+</html>
+```
+
+### `simulations.html` (Simulations & Data)
+
+````html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Simulations – Emergent Necessity Theory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Simulations: Test ENT</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="accessible.html">ENT for Everyone</a> |
+      <a href="theory.html">Theory</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Explore ENT Simulations</h2>
+      <ul>
+        <li>
+          <a href="https://github.com/muesdummy/Emergent-Necessity-Theory-ENT-/tree/main/simulations" target="_blank">Download or interact with code on GitHub</a>
+        </li>
+        <li>
+          <a href="https://mybinder.org/v2/gh/muesdummy/Emergent-Necessity-Theory-ENT-/main?filepath=notebooks/" target="_blank">Run Jupyter notebooks online</a>
+        </li>
+      </ul>
+      <p>
+        See phase transitions, coherence growth, and real emergence events in the data!
+      </p>
+    </section>
+    <section>
+      <h2>Sample Visualization</h2>
+      <figure>
+        <img src="images/coherence-threshold-plot.png" alt="Sample simulated phase transition plot" />
+        <figcaption>Emergence of order as τ crosses τ<sub>c</sub></figcaption>
+      </figure>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Emergent Necessity Theory Project
+  </footer>
+</body>
+</html>
+```
+
+### `contribute.html` (Community & Contribute)
+
+````html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contribute – Emergent Necessity Theory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Contribute to ENT</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="accessible.html">ENT for Everyone</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Get Involved</h2>
+      <ul>
+        <li><a href="https://github.com/muesdummy/Emergent-Necessity-Theory-ENT-/issues" target="_blank">Report bugs/ideas on GitHub</a></li>
+        <li><a href="https://github.com/muesdummy/Emergent-Necessity-Theory-ENT-/pulls" target="_blank">Submit pull requests</a></li>
+        <li>Share your insight, code, or simulations in the community repositories.</li>
+        <li>Email: <a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a></li>
+      </ul>
+      <p>Together we keep ENT open, self-critical, and evolving—just like the systems it studies.</p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Emergent Necessity Theory Project
+  </footer>
+</body>
+</html>
+```
+
+### `resources.html` (Resources)
+
+````html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Resources – Emergent Necessity Theory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>ENT Resources</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="accessible.html">ENT for Everyone</a> |
+      <a href="theory.html">Theory</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Core Papers and Links</h2>
+      <ul>
+        <li><a href="https://zenodo.org/records/15939045" target="_blank">Primary Zenodo Paper (2025, latest)</a></li>
+        <li><a href="https://github.com/muesdummy/Emergent-Necessity-Theory-ENT-" target="_blank">ENT GitHub Repo</a></li>
+        <li><a href="https://philarchive.org/rec/MUENEC" target="_blank">ENT preprint (PhilArchive)</a></li>
+        <li><a href="https://mybinder.org/v2/gh/muesdummy/Emergent-Necessity-Theory-ENT-/main?filepath=notebooks/" target="_blank">Run simulation notebooks online (Binder)</a></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Learning More</h2>
+      <ul>
+        <li><a href="accessible.html">Accessible Explanation</a></li>
+        <li><a href="theory.html">Mathematical Framework</a></li>
+        <li><a href="simulations.html">Simulations & Data</a></li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Emergent Necessity Theory Project
+  </footer>
+</body>
+</html>
+```
+
+### `styles.css` (Optional, for consistent look on all pages)
+
+````css
+body {
+  font-family: system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #fff;
+  color: #222;
+}
+header {
+  background: #001f3f;
+  color: #fff;
+  padding: 1.2em;
+  text-align: center;
+}
+nav a {
+  color: #81cfe0;
+  margin: 0 1em;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+main {
+  padding: 2em;
+  max-width: 860px;
+  margin: auto;
+}
+h1, h2 {
+  color: #003366;
+}
+footer {
+  background: #f0f0f0;
+  text-align: center;
+  padding: 1em;
+  margin-top: 2em;
+  font-size: 0.9em;
+}
+.cta {
+  background-color: #0074D9;
+  color: white;
+  padding: 0.8em 1.2em;
+  border-radius: 4px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 1em;
+}
+.formula {
+  background: #f4f4f4;
+  padding: 1em;
+  font-family: monospace;
+  margin: 1em 0;
+}
+figure {
+  margin: 2em 0;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+section {
+  margin-bottom: 3em;
+}
+```
