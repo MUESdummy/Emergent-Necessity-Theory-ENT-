@@ -1,0 +1,49 @@
+theme: jekyll-theme-minimal
+title: Emergent Necessity Theory (ENT)
+description: A universal threshold model for the emergence of structure across domains
+url: "https://emergent-necessity.org"
+baseurl: ""
+
+# Site settings
+author: ENT Research Team
+email: contact@emergent-necessity.org
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - LICENSE
+  - "*.py"
+  - "*.pdf"
+
+# Include files
+include:
+  - _pages
+
+# Collections
+collections:
+  papers:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "papers"
+    values:
+      layout: "paper"
