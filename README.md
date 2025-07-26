@@ -25,7 +25,7 @@ Emergent Necessity Theory- ENT.v3
 ⸻
 
 
-[full ENT wiki] (https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki#-welcome-to-the-ent-wiki)
+## [**> Full ENT wiki here <**](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki#-welcome-to-the-ent-wiki)
 
 While ENT provides experimentally testable thresholds, broader adoption faces challenges common to cross-disciplinary frameworks: institutional barriers between physics/neuroscience/AI communities, funding mechanisms favoring established paradigms, and technical hurdles in coordinating validation across domains. ENT's technology-ready predictions offer concrete pathways to overcome these through collaborative verification.
 
