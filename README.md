@@ -1,8 +1,3 @@
-## 📘 Deep Dive: A Guide to ENT
-... 
-🔗 [→ A Guide to ENT (Emergent Necessity Theory) ←](...)
-...
-
 Emergent Necessity Theory- ENT.v3
 
 ✅ What’s New:
@@ -91,4 +86,40 @@ To launch the MUES engine or view its simulation papers, use:
 → https://github.com/MUESdummy/Mues-Engine  
 → https://muesdummy.github.io/Mues-Engine/
 
+
+
+---
+
+## 📘 Deep Dive: A Guide to ENT
+
+If you're curious about **how ENT works**, what it models, and why it matters structurally across domains like physics, neural systems, and symbolic logic—  
+we recommend reading the full explainer:
+
+🔗 **[→ A Guide to ENT (Emergent Necessity Theory) ←](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory))**
+
+This extended page includes:
+- ✅ A clear breakdown of τ, κₑₓc R, SCQ, and threshold emergence  
+- ✅ Example predictions and cross-domain relevance  
+- ✅ A rigorous FAQ section  
+- ✅ Reflections for human, symbolic, and ethical contemplation (without prescription)  
+- ✅ Verified references from ENT’s theoretical papers and simulation protocols
+
+> ENT is not a product, belief, or ideology.  
+> It is a testable model that asks:  
+> **When does coherence become structurally required—across systems, symbols, and time?**
+
+---
+
+## ⚙️ Related Links
+- [ENT Core Metrics & Thresholds](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/ENT-Core-Metrics)
+- [ENT Simulation Architecture](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/tree/main/Simulationa)
+- [ENT Visual Models](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/Visualizing-Awareness-Emergence-in-ENT)
+- [Official Paper on PhilArchive](https://philarchive.org/rec/ALSENT-6)
+- [ENT Overview on Medium](https://medium.com/@Circa84/emergent-necessity-theory-a-gateway-to-structural-coherence-2f9b3b3451fa)
+
+---
+
+<!--
+Emergent Necessity Theory, ENT framework, τ threshold, coherence modeling, symbolic recursion, structural awareness, falsifiable emergence, κ_eff_R, SCQ, symbolic entropy collapse, AEFL simulations, unified threshold framework, conscious systems modeling, information coherence, symbolic drift, open-source threshold models, philosophy of structure, recursive modeling, structural necessity, ent theory arabic, بنية الضرورة الناشئة، علم البنية، مستويات الإدراك، collapse modeling, consciousness emergence
+-->
 
