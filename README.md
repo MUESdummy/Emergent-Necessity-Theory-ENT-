@@ -80,12 +80,7 @@ This repository contains Python validation scripts for the theoretical framework
 ```bash
 pip install numpy matplotlib scipy qiskit qiskit-ibm-runtime nilearn
 
-
-----
-To launch the MUES engine or view its simulation papers, use:  
-→ https://github.com/MUESdummy/Mues-Engine  
-→ https://muesdummy.github.io/Mues-Engine/
-
+```
 
 
 ---
