@@ -1,3 +1,8 @@
+## 📘 Deep Dive: A Guide to ENT
+... 
+🔗 [→ A Guide to ENT (Emergent Necessity Theory) ←](...)
+...
+
 Emergent Necessity Theory- ENT.v3
 
 ✅ What’s New:
