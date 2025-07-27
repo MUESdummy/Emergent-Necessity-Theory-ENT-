@@ -109,7 +109,7 @@ This extended page includes:
 - [ENT Core Metrics & Thresholds](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/ENT-Core-Metrics)
 - [ENT Simulation Architecture](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/tree/main/Simulationa)
 - [ENT Visual Models](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/Visualizing-Awareness-Emergence-in-ENT)
-- [Official Paper on PhilArchive](https://philarchive.org/rec/ALSENT-6)
+- [White Paper](https://philarchive.org/rec/ALSENT-6)
 - [ENT Overview on Medium](https://medium.com/@Circa84/emergent-necessity-theory-a-gateway-to-structural-coherence-2f9b3b3451fa)
 
 ---
