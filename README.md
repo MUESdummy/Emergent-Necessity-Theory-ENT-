@@ -116,6 +116,6 @@ This extended page includes:
 ---
 
 <!--
-Emergent Necessity Theory, ENT framework, τ threshold, coherence modeling, symbolic recursion, structural awareness, falsifiable emergence, κ_eff_R, SCQ, symbolic entropy collapse, AEFL simulations, unified threshold framework, conscious systems modeling, deep knowledge tracing, DKT, information coherence, symbolic drift, open-source threshold models, philosophy of structure, recursive modeling, structural necessity, ent theory arabic, بنية الضرورة الناشئة، علم البنية، مستويات الإدراك، collapse modeling, consciousness emergence
+Emergent Necessity Theory, ENT framework, τ threshold, coherence modeling, symbolic recursion, structural awareness, falsifiable emergence, κ_eff_R, SCQ, symbolic entropy collapse, AEFL simulations, temporal time, unified threshold framework, τ-Cascades, conscious systems modeling, deep knowledge tracing, DKT, Exogenic τ-Cascades, information coherence, temporal nesting, time materialization, symbolic drift, open-source threshold models, philosophy of structure, recursive modeling, structural necessity, ent theory arabic, بنية الضرورة الناشئة، علم البنية، مستويات الإدراك، collapse modeling, consciousness emergence
 -->
 
