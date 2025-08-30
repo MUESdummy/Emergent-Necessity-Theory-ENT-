@@ -110,12 +110,12 @@ This extended page includes:
 - [ENT Simulation Architecture](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/tree/main/Simulationa)
 - [ENT Visual Models](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/Visualizing-Awareness-Emergence-in-ENT)
 - [White Paper](https://philarchive.org/rec/ALSENT-6)
-- [Trial: Dynamic Knowledge Tracing in ENT](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/f671055f56af63522980022354908acd3eedac22/ENT_DKT.pdf)
+- [Trial: Deep Knowledge Tracing in ENT](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/f671055f56af63522980022354908acd3eedac22/ENT_DKT.pdf)
 - [ENT Overview on Medium](https://medium.com/@Circa84/emergent-necessity-theory-a-gateway-to-structural-coherence-2f9b3b3451fa)
 
 ---
 
 <!--
-Emergent Necessity Theory, ENT framework, τ threshold, coherence modeling, symbolic recursion, structural awareness, falsifiable emergence, κ_eff_R, SCQ, symbolic entropy collapse, AEFL simulations, unified threshold framework, conscious systems modeling, dynamic knowledge tracing, DKT, information coherence, symbolic drift, open-source threshold models, philosophy of structure, recursive modeling, structural necessity, ent theory arabic, بنية الضرورة الناشئة، علم البنية، مستويات الإدراك، collapse modeling, consciousness emergence
+Emergent Necessity Theory, ENT framework, τ threshold, coherence modeling, symbolic recursion, structural awareness, falsifiable emergence, κ_eff_R, SCQ, symbolic entropy collapse, AEFL simulations, unified threshold framework, conscious systems modeling, deep knowledge tracing, DKT, information coherence, symbolic drift, open-source threshold models, philosophy of structure, recursive modeling, structural necessity, ent theory arabic, بنية الضرورة الناشئة، علم البنية، مستويات الإدراك، collapse modeling, consciousness emergence
 -->
 
