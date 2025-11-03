@@ -1,5 +1,7 @@
 [Emergent Necessity Theory- Complete human written 17 page manuscript](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/f8af3acf9a213ac69a092ccd8cdea9ccd6c32385/ENT%E2%80%94%20Complete%20Manuscript.%20K84.%20%20.pdf)
 
+Or find v.48 [On Zenodo here 17517075](https://doi.org/10.5281/zenodo.17517075)
+
 _Open-source, consensus based, and cross domains working in tandem is the only way science makes truthful progress._
 (13/10/2025).
 
