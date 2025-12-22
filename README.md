@@ -28,13 +28,16 @@ Emergent Necessity Theory- ENT.v3
 	•	Hysteresis-corrected resilience index:
 \kappa_R^{\text{eff}}(t) = \frac{1}{\Delta} \int_{t-\Delta}^{t} \kappa_{\text{inst}}(u) \, du
 
+jump-- 
 
 Omega Duality ref shortened.
 \Omega_{\text{in}}
 maximal internally representable state space under the system’s constraints
 
 \Omega_{\text{out}}
-complementary constraint-space that cannot be represented but still governs stability, failure modes, and transitions
+complementary constraint-space that cannot be represented- but still governs stability, failure modes, and transitions. 
+
+Note: Omega Duality emerged during the consolidation of Emergent Necessity Theory as a necessary structural consequence of coherence thresholds applied to observer-bound systems, rather than as an independent postulate. 
 
 🧠 Ethical and Scientific Integrity:
 	•	ENT does not claim sentience detection or metaphysical truth.
