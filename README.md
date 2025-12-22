@@ -28,6 +28,14 @@ Emergent Necessity Theory- ENT.v3
 	•	Hysteresis-corrected resilience index:
 \kappa_R^{\text{eff}}(t) = \frac{1}{\Delta} \int_{t-\Delta}^{t} \kappa_{\text{inst}}(u) \, du
 
+
+Omega Duality ref shortened.
+\Omega_{\text{in}}
+maximal internally representable state space under the system’s constraints
+
+\Omega_{\text{out}}
+complementary constraint-space that cannot be represented but still governs stability, failure modes, and transitions
+
 🧠 Ethical and Scientific Integrity:
 	•	ENT does not claim sentience detection or metaphysical truth.
 	•	All metaphysical interpretations rejected — ENT is structural, not ideological.
@@ -128,6 +136,6 @@ This extended page includes:
 ---
 
 <!--
-Emergent Necessity Theory, ENT framework, τ threshold, coherence modeling, symbolic recursion, structural awareness, falsifiable emergence, κ_eff_R, SCQ, symbolic entropy collapse, coherence corridor, cch, Exogenic τ-Cascade, XTC, AEFL simulations, omega duality, temporal time, Observed anomalies t stress zones, unified threshold framework, τ-stess zones, τ systems, t systems, tau stress zones, TSZ, τ-Cascades, conscious systems modeling, deep knowledge tracing, DKT, Exogenic τ-Cascades, information coherence, temporal nesting, time materialization, symbolic drift, open-source threshold models, new science, philosophy of structure, Human interface hypotheses, Interface Threshold Hypothesis, recursive modeling, structural necessity, ent theory arabic, بنية الضرورة الناشئة، علم البنية، مستويات الإدراك، collapse modeling, consciousness emergence
+Emergent Necessity Theory, ENT framework, τ threshold, coherence modeling, symbolic recursion, structural awareness, falsifiable emergence, κ_eff_R, SCQ, symbolic entropy collapse, coherence corridor, cch, Exogenic τ-Cascade, XTC, AEFL simulations, omega duality, temporal time, Observed anomalies t stress zones, unified threshold framework, τ-stess zones, τ systems, t systems, omega duality, tau stress zones, TSZ, τ-Cascades, conscious systems modeling, deep knowledge tracing, DKT, Exogenic τ-Cascades, information coherence, temporal nesting, time materialization, symbolic drift, open-source threshold models, new science, philosophy of structure, Human interface hypotheses, Interface Threshold Hypothesis, recursive modeling, structural necessity, ent theory arabic, بنية الضرورة الناشئة، علم البنية، مستويات الإدراك، collapse modeling, consciousness emergence
 -->
 
