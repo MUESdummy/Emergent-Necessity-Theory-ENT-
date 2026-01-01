@@ -12,7 +12,7 @@ _Open-source, consensus based, and cross domains working in tandem is the only w
 --
 Emergent Necessity Theory- ENT.v3
 
-✅ What’s New:
+✅ What’s in the framework:
 	•	κR (Resilience Ratio) universal calibration band defined: 1.15 ≤ κR ≤ 1.32
 	•	Updated τ(t) coherence function with normalized syntactic entropy costs
 	•	AEFL engine specification for tracking symbolic recursion, contradiction entropy, and emergence collapse states
@@ -30,6 +30,7 @@ Emergent Necessity Theory- ENT.v3
 
 jump-- 
 
+add.
 Omega Duality ref shortened.
 \Omega_{\text{in}}
 maximal internally representable state space under the system’s constraints
@@ -39,7 +40,7 @@ complementary constraint-space that cannot be represented- but still governs sta
 
 Note: Omega Duality emerged during the consolidation of Emergent Necessity Theory as a necessary structural consequence of coherence thresholds applied to observer-bound systems, rather than as an independent postulate. 
 
-🧠 Ethical and Scientific Integrity:
+Ethical and Scientific Integrity:
 	•	ENT does not claim sentience detection or metaphysical truth.
 	•	All metaphysical interpretations rejected — ENT is structural, not ideological.
 	•	AEFL and SCQ are not diagnostic tools, but symbolic tracking metrics.
@@ -50,7 +51,7 @@ Note: Omega Duality emerged during the consolidation of Emergent Necessity Theor
 
 ## [**> Full ENT wiki here <**](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki#-welcome-to-the-ent-wiki)
 
-While ENT provides experimentally testable thresholds, broader adoption faces challenges common to cross-disciplinary frameworks: institutional barriers between physics/neuroscience/AI communities, funding mechanisms favoring established paradigms, and technical hurdles in coordinating validation across domains. ENT's technology-ready predictions offer concrete pathways to overcome these through collaborative verification.
+While ENT provides experimentally testable thresholds, broader adoption faces challenges common to cross-disciplinary frameworks: institutional barriers between physics/neuroscience/AI communities, funding mechanisms favoring established paradigms, and technical hurdles in coordinating validation across domains. ENT's technology-ready predictions offer concrete pathways to overcome these through more collaborative and public verification.
 
 * [Emergent Necessity Theory v2: Structural
 Coherence Thresholds Across Neural,
@@ -115,7 +116,11 @@ we recommend reading the full explainer:
 
 🔗 **[→ A Guide to ENT (Emergent Necessity Theory) ←](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory))**
 
-This extended page includes:
+> Emergent Necessity Theory treats necessity as a property that must survive changes in projection, analogous to distinguishing intrinsic constraints of a high-dimensional object from artifacts of its lower-dimensional representations.
+
+ENT can currently prove when necessity is not present— and that's the necessary step before it can ever prove when it is.
+
+extended pages adds:
 - ✅ A clear breakdown of τ, κₑₓc R, SCQ, and threshold emergence  
 - ✅ Example predictions and cross-domain relevance  
 - ✅ A rigorous FAQ section  
@@ -124,7 +129,7 @@ This extended page includes:
 
 > ENT is not a product, belief, or ideology.  
 > It is a testable model that asks:  
-> **When does coherence become structurally required—across systems, symbols, and time?**
+> **When does coherence become structurally required—across systems, symbols, and time.**
 
 ---
 
