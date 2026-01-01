@@ -12,7 +12,7 @@ _Open-source, consensus based, and cross domains working in tandem is the only w
 --
 Emergent Necessity Theory- ENT.v3
 
-✅ What’s in the framework:
+✅ What’s in the [framework](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/a074c078b3c06ae4bcdad7cceebd1956822471c5/7-Constraints):
 	•	κR (Resilience Ratio) universal calibration band defined: 1.15 ≤ κR ≤ 1.32
 	•	Updated τ(t) coherence function with normalized syntactic entropy costs
 	•	AEFL engine specification for tracking symbolic recursion, contradiction entropy, and emergence collapse states
