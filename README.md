@@ -57,7 +57,7 @@ While ENT provides experimentally testable thresholds, broader adoption faces ch
 
 * [Emergent Necessity Theory: Framework of Scientific Pragmatism for Structural Coherence Across Neural, Symbolic, and Physical Domains 'Latest Manuscript v4.8'](https://doi.org/10.5281/zenodo.17517075)
 
-_ENT began to attempt to solve the AI problem of programmable Ethics, which had led to [SERI: Structural Ethics Readiness Index](https://philarchive.org/rec/PROSVS), which can be found in this Repo,the [ENT Wiki pages 'here'](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory)#applications--predictions). Additionally, variations can be found on Philpapers.  
+_ENT began to attempt to solve the AI problem of programmable Ethics, which had led to [SERI: Structural Ethics Readiness Index](https://philarchive.org/rec/PROSVS), which can be found in this Repo,the [ENT Wiki pages 'here'](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory)#applications--predictions). Additionally, variations can be found on Philpapers._
 
 _For Extensions and Hypotheses, such as The Human Interface Hypothesis, The Coherence Corridor Hypothesis, The Tenporal Cascade Hypothesis, and The Exogenic t-Cascade Hypothesis, and more [VISIT THIS LINK HERE](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory)#extensional-hypotheses)._
 
