@@ -12,7 +12,7 @@ _Open-source, consensus based, and cross domains working in tandem is the only w
 
 
 --
-Emergent Necessity Theory- ENT.v3 (older paper) 
+Emergent Necessity Theory- ENT.v3 (earlier paper) 
 
 ✅ What’s in the [framework](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/a074c078b3c06ae4bcdad7cceebd1956822471c5/7-Constraints):
 	•	κR (Resilience Ratio) universal calibration band defined: 1.15 ≤ κR ≤ 1.32
@@ -57,11 +57,11 @@ While ENT provides experimentally testable thresholds, broader adoption faces ch
 
 * [Emergent Necessity Theory: Framework of Scientific Pragmatism for Structural Coherence Across Neural, Symbolic, and Physical Domains 'Latest Manuscript v4.8'](https://doi.org/10.5281/zenodo.17517075)
 
-_ENT began to attempt to solve the AI problem of programmable Ethics, which had led to [SERI: Structural Ethics Readiness Index](https://philarchive.org/rec/PROSVS), which can be found in this Repo,the [ENT Wiki pages 'here'](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory)#applications--predictions). Additionally, variations can be found on Philpapers._
+_Emphasis: ENT expanded into multiple domains by initially attempting to solve the pressing problem of wheather ethics can be hardcoded into a system rather than periodic monitoring and patching into an LLM System, this had eventually led (in it's early form) to [SERI: Structural Ethics Readiness Index](https://philarchive.org/rec/PROSVS), which can be found in this Repo,as well as the [ENT Wiki pages 'here'](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory)#applications--predictions). Additionally, variations can be found on Philpapers._
 
-_For Extensions and Hypotheses, such as The Human Interface Hypothesis, The Coherence Corridor Hypothesis, The Tenporal Cascade Hypothesis, and The Exogenic t-Cascade Hypothesis, and more [VISIT THIS LINK HERE](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory)#extensional-hypotheses)._
+_For Extensions and Hypotheses, such as The Human Interface Hypothesis, The Coherence Corridor Hypothesis, The Temporal Cascade Hypothesis, The Exogenic t-Cascade Hypothesis, and more [VISIT THIS LINK HERE](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/wiki/A-Guide-to-ENT-(Emergent-Necessity-Theory)#extensional-hypotheses)._
 
-_For all metrics and data-sets dive deeper into this repo_ 
+_For all metrics and data-sets feel free to dive deeper into this repo_ 
 
 
 
