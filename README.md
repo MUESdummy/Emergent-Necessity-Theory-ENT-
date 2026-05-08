@@ -25,7 +25,7 @@ Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE.
 
 ** Heaviside Collapse Operator (Θ) applied to Structural Consciousness Quotient (SCQ)
 
-** Quantum, Neural, AI, and Cosmological 'Simulations' confirm domain-specific emergence thresholds:
+** Quantum, Neural, AI, and Cosmological Simulations support domain-specific emergence thresholds:
 
 	•	QAOA: τₚ = 1.5, κR = 1.32
 
@@ -37,38 +37,72 @@ Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE.
 
 
      
-** _Formal Definitions Updated:_
+## Formal Definitions Updated
 
- •	Recursive structural necessity: 
+### Core coherence threshold
 
- τ(t) = ΔSₛᵧₙ / Eₛᵧₙ
- 
- •	Hysteresis-corrected resilience index:
+ENT treats structural emergence as threshold-dependent: a system becomes structurally stable when its normalized coherence signal crosses a domain-calibrated critical threshold.
 
- \kappa_R^{\text{eff}}(t) = \frac{1}{\Delta} \int_{t-\Delta}^{t} \kappa_{\text{inst}}(u) \, du
+$$
+\kappa_R(t) = \frac{\tau(t)}{\tau_c}
+$$
+
+Where:
+
+- $\tau(t)$ = domain-calibrated coherence signal
+- $\tau_c$ = critical coherence threshold
+- $\kappa_R(t) > 1$ = above-threshold structural stability
+- $\kappa_R(t) < 1$ = sub-threshold drift or fragility
+
+### AI / symbolic operational proxy
+
+For symbolic or AI-system testing, $\tau$ may be operationalized through a domain-specific proxy rather than treated as a universal raw equation:
+
+$$
+\hat{\tau}_{AI}(t)
+=
+\frac{\Delta H(t)}
+{E_{\mathrm{syn}}(t)+\varepsilon}
+$$
+
+Where:
+
+- $\Delta H(t)$ = entropy or drift-pressure differential
+- $E_{\mathrm{syn}}(t)$ = syntactic energy / symbolic maintenance cost
+- $\varepsilon$ = stabilizing constant to prevent division instability
+- lower $\hat{\tau}_{AI}$ indicates higher drift pressure relative to symbolic support
+
+### Hysteresis-corrected resilience
+
+$$
+\kappa_R^{\mathrm{eff}}(t)
+=
+\frac{1}{\Delta}
+\int_{t-\Delta}^{t}
+\kappa_{\mathrm{inst}}(u)\,du
+$$
+
+This captures whether stability persists across a time window rather than appearing only as a single-point measurement.
+
+### Omega Duality Reference
+
+$$
+\Omega_{\mathrm{in}}
+$$
+
+Maximal internally representable state-space under the system’s constraints.
+
+$$
+\Omega_{\mathrm{out}}
+$$
+
+Complementary constraint-space that cannot be fully represented from within the system, but may still govern stability, failure modes, and transitions.
+
+< Omega Duality is best treated as a structural reference concept, not an independent postulate: it follows from applying coherence thresholds to observer-bound systems. >
 
 
 
-
-       
-          
-
-jump to-
-
-<add>
-	
-** Omega Duality ref shortened.
-
-`\Omega_{\text{in}}`
-< maximal internally representable state space under the system’s constraints >
-
-`\Omega_{\text{out}}`
-< complementary constraint-space that cannot be represented- but still governs stability, failure modes, and transitions. >
-
-Note: <Omega Duality emerged during the consolidation of Emergent Necessity Theory as a necessary structural consequence of coherence thresholds applied to observer-bound systems, rather than as an independent postulate.> 
-
-
-*Ethical and Scientific Integrity:
+## Ethical and Scientific Integrity:
 	•	ENT does not claim sentience detection or metaphysical truth.
 	•	All metaphysical interpretations rejected— ENT is structural, not ideological.
 	•	AEFL and SCQ are not diagnostic tools, but instrumentalized symbolic tracking metrics.
