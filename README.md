@@ -12,7 +12,7 @@ _Open-source, consensus based, and cross domains working in tandem is the only w
 
 
 --
-Emergent Necessity Theory- ENT.v3 (earlier paper) 
+Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE. 
 
 *_What’s in the [framework](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/a074c078b3c06ae4bcdad7cceebd1956822471c5/7-Constraints):_
 
@@ -25,7 +25,7 @@ Emergent Necessity Theory- ENT.v3 (earlier paper)
 
 *Heaviside Collapse Operator (Θ) applied to Structural Consciousness Quotient (SCQ)
 
- Quantum, Neural, AI, and Cosmological 'Simulations' confirm domain-specific emergence thresholds:
+*Quantum, Neural, AI, and Cosmological 'Simulations' confirm domain-specific emergence thresholds:
 
 	•	QAOA: τₚ = 1.5, κR = 1.32
 
@@ -36,15 +36,21 @@ Emergent Necessity Theory- ENT.v3 (earlier paper)
 	•	String Vacua Stability: τₚ = 1.8, κR = 1.01
 
 
+     
 *_Formal Definitions Updated:_
 
  •	Recursive structural necessity: 
+
  τ(t) = ΔSₛᵧₙ / Eₛᵧₙ
  
  •	Hysteresis-corrected resilience index:
+
  \kappa_R^{\text{eff}}(t) = \frac{1}{\Delta} \int_{t-\Delta}^{t} \kappa_{\text{inst}}(u) \, du
 
 
+
+
+       
           
 
 jump to-
