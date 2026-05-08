@@ -14,7 +14,7 @@ _Open-source, consensus based, and cross domains working in tandem is the only w
 --
 Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE. 
 
-*_What’s in the [framework](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/a074c078b3c06ae4bcdad7cceebd1956822471c5/7-Constraints):_
+** _What’s in the [framework](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/a074c078b3c06ae4bcdad7cceebd1956822471c5/7-Constraints):_
 
  •	κR (Resilience Ratio) universal calibration band defined: 1.15 ≤ κR ≤ 1.32
 
@@ -23,9 +23,9 @@ Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE.
  •	AEFL engine specification for tracking symbolic recursion, contradiction entropy, and emergence collapse states. 
 
 
-*Heaviside Collapse Operator (Θ) applied to Structural Consciousness Quotient (SCQ)
+** Heaviside Collapse Operator (Θ) applied to Structural Consciousness Quotient (SCQ)
 
-*Quantum, Neural, AI, and Cosmological 'Simulations' confirm domain-specific emergence thresholds:
+** Quantum, Neural, AI, and Cosmological 'Simulations' confirm domain-specific emergence thresholds:
 
 	•	QAOA: τₚ = 1.5, κR = 1.32
 
@@ -37,7 +37,7 @@ Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE.
 
 
      
-*_Formal Definitions Updated:_
+** _Formal Definitions Updated:_
 
  •	Recursive structural necessity: 
 
@@ -57,13 +57,13 @@ jump to-
 
 <add>
 	
-Omega Duality ref shortened.
+** Omega Duality ref shortened.
 
-\Omega_{\text{in}}
-maximal internally representable state space under the system’s constraints
+`\Omega_{\text{in}}`
+< maximal internally representable state space under the system’s constraints >
 
-\Omega_{\text{out}}
-complementary constraint-space that cannot be represented- but still governs stability, failure modes, and transitions. 
+`\Omega_{\text{out}}`
+< complementary constraint-space that cannot be represented- but still governs stability, failure modes, and transitions. >
 
 Note: <Omega Duality emerged during the consolidation of Emergent Necessity Theory as a necessary structural consequence of coherence thresholds applied to observer-bound systems, rather than as an independent postulate.> 
 
