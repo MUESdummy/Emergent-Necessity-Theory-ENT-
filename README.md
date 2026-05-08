@@ -43,62 +43,41 @@ Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE.
 
 ENT treats structural emergence as threshold-dependent: a system becomes structurally stable when its normalized coherence signal crosses a domain-calibrated critical threshold.
 
-$$
-\kappa_R(t) = \frac{\tau(t)}{\tau_c}
-$$
+κR(t) = τ(t) / τc
 
 Where:
 
-- $\tau(t)$ = domain-calibrated coherence signal
-- $\tau_c$ = critical coherence threshold
-- $\kappa_R(t) > 1$ = above-threshold structural stability
-- $\kappa_R(t) < 1$ = sub-threshold drift or fragility
+- τ(t) = domain-calibrated coherence signal
+- τc = critical coherence threshold
+- κR(t) > 1 = above-threshold structural stability
+- κR(t) < 1 = sub-threshold drift or fragility
 
 ### AI / symbolic operational proxy
 
-For symbolic or AI-system testing, $\tau$ may be operationalized through a domain-specific proxy rather than treated as a universal raw equation:
+For symbolic or AI-system testing, τ may be operationalized through a domain-specific proxy rather than treated as a universal raw equation:
 
-$$
-\hat{\tau}_{AI}(t)
-=
-\frac{\Delta H(t)}
-{E_{\mathrm{syn}}(t)+\varepsilon}
-$$
+τ̂AI(t) = ΔH(t) / (Esyn(t) + ε)
 
 Where:
 
-- $\Delta H(t)$ = entropy or drift-pressure differential
-- $E_{\mathrm{syn}}(t)$ = syntactic energy / symbolic maintenance cost
-- $\varepsilon$ = stabilizing constant to prevent division instability
-- lower $\hat{\tau}_{AI}$ indicates higher drift pressure relative to symbolic support
+- ΔH(t) = entropy or drift-pressure differential
+- Esyn(t) = syntactic energy / symbolic maintenance cost
+- ε = stabilizing constant to prevent division instability
+- lower τ̂AI indicates higher drift pressure relative to symbolic support
 
 ### Hysteresis-corrected resilience
 
-$$
-\kappa_R^{\mathrm{eff}}(t)
-=
-\frac{1}{\Delta}
-\int_{t-\Delta}^{t}
-\kappa_{\mathrm{inst}}(u)\,du
-$$
+κR_eff(t) = (1 / Δ) ∫[t−Δ, t] κinst(u) du
 
 This captures whether stability persists across a time window rather than appearing only as a single-point measurement.
 
 ### Omega Duality Reference
 
-$$
-\Omega_{\mathrm{in}}
-$$
+Ωin = maximal internally representable state-space under the system’s constraints.
 
-Maximal internally representable state-space under the system’s constraints.
+Ωout = complementary constraint-space that cannot be fully represented from within the system, but may still govern stability, failure modes, and transitions.
 
-$$
-\Omega_{\mathrm{out}}
-$$
-
-Complementary constraint-space that cannot be fully represented from within the system, but may still govern stability, failure modes, and transitions.
-
-< Omega Duality is best treated as a structural reference concept, not an independent postulate: it follows from applying coherence thresholds to observer-bound systems. >
+Omega Duality is best treated as a structural reference concept, not an independent postulate: it follows from applying coherence thresholds to observer-bound systems.
 
 
 
