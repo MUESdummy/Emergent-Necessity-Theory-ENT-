@@ -25,7 +25,7 @@ Emergent Necessity Theory- ENT.v3 (earlier paper)
 
 *Heaviside Collapse Operator (Θ) applied to Structural Consciousness Quotient (SCQ)
 
-	Quantum, Neural, AI, and Cosmological Simulations confirm domain-specific emergence thresholds:
+ Quantum, Neural, AI, and Cosmological 'Simulations' confirm domain-specific emergence thresholds:
 
 	•	QAOA: τₚ = 1.5, κR = 1.32
 
