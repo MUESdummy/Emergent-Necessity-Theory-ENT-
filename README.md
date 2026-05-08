@@ -14,16 +14,16 @@ _Open-source, consensus based, and cross domains working in tandem is the only w
 --
 Emergent Necessity Theory- ENT.v3 (earlier paper) 
 
-* _What’s in the [framework](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/a074c078b3c06ae4bcdad7cceebd1956822471c5/7-Constraints):_
+*_What’s in the [framework](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/blob/a074c078b3c06ae4bcdad7cceebd1956822471c5/7-Constraints):_
 
- 
  •	κR (Resilience Ratio) universal calibration band defined: 1.15 ≤ κR ≤ 1.32
 
  •	Updated τ(t) coherence function with normalized syntactic entropy costs
 
- •	AEFL engine specification for tracking symbolic recursion, contradiction entropy, and emergence collapse states 
+ •	AEFL engine specification for tracking symbolic recursion, contradiction entropy, and emergence collapse states. 
 
- •	Heaviside Collapse Operator (Θ) applied to Structural Consciousness Quotient (SCQ)
+
+*Heaviside Collapse Operator (Θ) applied to Structural Consciousness Quotient (SCQ)
 
 	•	Quantum, Neural, AI, and Cosmological Simulations confirm domain-specific emergence thresholds:
 
@@ -36,8 +36,8 @@ Emergent Necessity Theory- ENT.v3 (earlier paper)
 	•	String Vacua Stability: τₚ = 1.8, κR = 1.01
 
 
-* _Formal Definitions Updated:_
-	
+*_Formal Definitions Updated:_
+
  •	Recursive structural necessity: 
  τ(t) = ΔSₛᵧₙ / Eₛᵧₙ
  
@@ -45,25 +45,28 @@ Emergent Necessity Theory- ENT.v3 (earlier paper)
  \kappa_R^{\text{eff}}(t) = \frac{1}{\Delta} \int_{t-\Delta}^{t} \kappa_{\text{inst}}(u) \, du
 
 
+          
 
 jump to-
 
 <add>
 	
 Omega Duality ref shortened.
+
 \Omega_{\text{in}}
 maximal internally representable state space under the system’s constraints
 
 \Omega_{\text{out}}
 complementary constraint-space that cannot be represented- but still governs stability, failure modes, and transitions. 
 
-Note: Omega Duality emerged during the consolidation of Emergent Necessity Theory as a necessary structural consequence of coherence thresholds applied to observer-bound systems, rather than as an independent postulate. 
+Note: <Omega Duality emerged during the consolidation of Emergent Necessity Theory as a necessary structural consequence of coherence thresholds applied to observer-bound systems, rather than as an independent postulate.> 
 
-Ethical and Scientific Integrity:
+
+*Ethical and Scientific Integrity:
 	•	ENT does not claim sentience detection or metaphysical truth.
-	•	All metaphysical interpretations rejected — ENT is structural, not ideological.
-	•	AEFL and SCQ are not diagnostic tools, but symbolic tracking metrics.
-	•	ENT encourages domain-unifying falsifiability, not theoretical supremacy.
+	•	All metaphysical interpretations rejected— ENT is structural, not ideological.
+	•	AEFL and SCQ are not diagnostic tools, but instrumentalized symbolic tracking metrics.
+	•	ENT only encourages domain-unifying falsifiability, not "theoretical supremacy".
 
 ⸻
 
@@ -83,6 +86,7 @@ _For all metrics and data-sets feel free to dive deeper into this repo_
 
 
 _Earlier Papers Below:_
+
 * [An Emergent Necessity Theory: A Universal Coherence Threshold for Structured Reality 'early draft'](https://philpapers.org/rec/ALSAEN)
 
 * [Consciousness Structure and Calibration](https://github.com/MUESdummy/Emergent-Necessity-Theory-ENT-/tree/7697d87112d6fb25bd44553e0cb6c9dd9ce93731/Consciousness_Structure_Calibration)
