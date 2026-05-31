@@ -9,9 +9,9 @@ _doi.org/10.5281/zenodo.17517075_
 _Open-source, consensus based, and cross domains working in tandem is the only way science makes truthful progress._
 (13/10/2025).
 
-
-'Transparency note: Emergent Necessity Theory's Framework is human originated, earlier papers used AI assistance for data gathering, notation refinement, mathematical consistency checks, simulation support, literature comparison, structural cross-analysis, and editorial refinement'
-
+```
+Transparency note: Emergent Necessity Theory's Framework is human originated, earlier papers used AI assistance for data gathering, notation refinement, mathematical consistency checks, simulation support, literature comparison, structural cross-analysis, and editorial refinement.
+```
 
 --
 Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE. 
