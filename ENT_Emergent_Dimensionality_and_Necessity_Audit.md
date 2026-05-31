@@ -3,7 +3,7 @@
 
 ### Status
 Living document.  
-This paper documents the *actual development path*, including failures, revisions, and negative results, of Emergent Necessity Theory (ENT) over approximately one year of work.
+This paper documents the *actual development path*, including failures, revisions, and negative results, of Emergent Necessity Theory (ENT) <since published May-July 2025>
 
 No claims of finality are made.
 
@@ -190,7 +190,7 @@ CRD is the **first observable** to pass most integrity checks, but not all.
 - Universal necessity thresholds
 - Finalized necessity observables
 
-This restraint is intentional.
+This restraint is intentional and critical for this framework. 
 
 ---
 
@@ -228,11 +228,12 @@ Necessity itself remains a harder target — and ENT documents that difficulty r
 - ENT unified framework exposition  
   https://philpapers.org/rec/ENTOBC
 
+- ENT Repo, and other open-archives public, and made to be intentionally open-sourced.
 Supplementary materials and dimensional provenance are available in the accompanying GitHub repository.
 
 ---
 
 ## License
 
-This document is provided for transparency and academic scrutiny.  
+This document is provided for transparency, academic scrutiny, and independent testing. .  
 No claim of completeness or finality is made.
