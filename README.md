@@ -10,7 +10,7 @@ _Open-source, consensus based, and cross domains working in tandem is the only w
 (13/10/2025).
 
 
-< Transparency note: Emergent Necessity Theory's Framework is human originated, earlier papers used AI assistance for data gathering, notation refinement, mathematical consistency checks, simulation support, literature comparison, structural cross-analysis, and editorial refinement >
+'Transparency note: Emergent Necessity Theory's Framework is human originated, earlier papers used AI assistance for data gathering, notation refinement, mathematical consistency checks, simulation support, literature comparison, structural cross-analysis, and editorial refinement'
 
 
 --
