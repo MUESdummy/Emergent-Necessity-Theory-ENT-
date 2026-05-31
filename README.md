@@ -3,12 +3,14 @@
 Or find v4.8 [On Zenodo here 17517075](https://doi.org/10.5281/zenodo.17517075)
 _doi.org/10.5281/zenodo.17517075_
 
+
 ^ Official Manuscript Link on Zenodo above Nov/2025 ^
 
 _Open-source, consensus based, and cross domains working in tandem is the only way science makes truthful progress._
 (13/10/2025).
 
 
+< Transparency note: Emergent Necessity Theory's Framework is human originated, earlier papers used AI assistance for data gathering, notation refinement, mathematical consistency checks, simulation support, literature comparison, structural cross-analysis, and editorial refinement >
 
 
 --
@@ -34,6 +36,8 @@ Emergent Necessity Theory- ENT.v3 (earlier paper) SEE ABOVE.
 	•	LLM Symbolic Drift: τₚ = 0.6, κR = 1.02
 
 	•	String Vacua Stability: τₚ = 1.8, κR = 1.01
+
+
 
 
      
@@ -172,6 +176,7 @@ pip install numpy matplotlib scipy qiskit qiskit-ibm-runtime nilearn
 ---
 
 ## 📘 Deep Dive: A Guide to ENT
+
 
 If you're curious about **how ENT works**, what it models, and why it matters structurally across domains like physics, neural systems, and symbolic logic—  
 we recommend reading the full explainer:
